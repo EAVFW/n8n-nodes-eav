@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/eavfw/n8n-nodes-eav/compare/v1.0.0...v1.0.1) (2025-02-21)
+
+
+### Bug Fixes
+
+* npm instead of ppm ([71be0cb](https://github.com/eavfw/n8n-nodes-eav/commit/71be0cb4c8025a9ea52ab6a096abe76c298be91d))
+
 # 1.0.0 (2025-02-21)
 
 
