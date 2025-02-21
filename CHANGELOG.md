@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/eavfw/n8n-nodes-eav/compare/v1.0.1...v1.0.2) (2025-02-21)
+
+
+### Bug Fixes
+
+* npm run fixed ([dd3f183](https://github.com/eavfw/n8n-nodes-eav/commit/dd3f183a097045f842ecaa07065d3d955be7274f))
+
 ## [1.0.1](https://github.com/eavfw/n8n-nodes-eav/compare/v1.0.0...v1.0.1) (2025-02-21)
 
 
