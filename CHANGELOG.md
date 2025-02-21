@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/eavfw/n8n-nodes-eav/compare/v1.0.2...v1.0.3) (2025-02-21)
+
+
+### Bug Fixes
+
+* default description changed ([010a730](https://github.com/eavfw/n8n-nodes-eav/commit/010a730784e2ce8d64d07f26fd15c30bee359828))
+
 ## [1.0.2](https://github.com/eavfw/n8n-nodes-eav/compare/v1.0.1...v1.0.2) (2025-02-21)
 
 
