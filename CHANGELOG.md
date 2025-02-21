@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/eavfw/n8n-nodes-eav/compare/v1.0.4...v1.0.5) (2025-02-21)
+
+
+### Bug Fixes
+
+* next version ([3b57bd4](https://github.com/eavfw/n8n-nodes-eav/commit/3b57bd4a624f76f2f0e332da303e80a6343fc9e6))
+
 ## [1.0.4](https://github.com/eavfw/n8n-nodes-eav/compare/v1.0.3...v1.0.4) (2025-02-21)
 
 
